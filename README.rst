@@ -4,6 +4,7 @@ envcor
 
 
 compute envelope correlation in resting and task MEG and EEG data
+
 *Normalized by empty room.
 *Orthogonal envelop correlation.
 
